@@ -1,0 +1,17 @@
+{
+  "name": "login-form-cypress-testing",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:verify": "cypress verify",
+    "cypress:run": "cypress run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.5.0"
+  }
+}
