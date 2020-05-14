@@ -1,6 +1,8 @@
 # End-to-End Testing for a Login Form Using Cypress
 
-## [Medium Article]()
+## [Medium Article](https://levelup.gitconnected.com/environment-variables-in-cypress-end-to-end-testing-e2f20acd6a86)
+
+Cypress provides several ways to work with environment variables. In its documentation about environment variables (link), Cypress has listed their usages, and compared the pros/cons for each option. In this article, we will focus on the option of passing in environment variables using the Cypress command line interface (CLI), and we will discuss scenarios of using the Cypress npm package and Cypress docker images.
 
 ## Folder Structure
 
